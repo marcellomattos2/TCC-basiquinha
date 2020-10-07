@@ -132,15 +132,15 @@ body{
 .item-social-media{
     border: 1px solid #cf8f7b;
     border-radius: 50%;
-    width: 35px;
-    height: 35px;
-    line-height: 35px;
+    width: 30px;
+    height: 30px;
+    line-height: 30px;
     text-align: center;
     color: #cf8f7b;
 }
 
 .social-media {
-    margin: 4px 0;
+    margin: 2px 0;
 }
 
 
@@ -180,7 +180,7 @@ input:-webkit-autofill
     background-color: #ecf0f1;
     display: flex;
     align-items: center;
-    margin: 8px;
+    margin: 1.2px;
 }
 
 .icon-modify {
